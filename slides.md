@@ -6,6 +6,12 @@ _paginate: true
 class: lead
 ---
 
+<!--
+title: Product Documentation Presentation
+description: A Marp slide deck for software product documentation
+class: lead
+-->
+
 <!-- Custom Theme Definition -->
 <style>
 section {
@@ -63,7 +69,7 @@ $$
 
 ---
 
-![bg](https://picsum.photos/1200/800)
+<!-- backgroundImage: "https://picsum.photos/1200/800" -->
 
 # Visual Documentation
 Background images make documentation engaging.
